@@ -341,15 +341,9 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
-"Assets/Kawaii Slime/Cameras/Scripts/AbstractTargetFollower.cs"
-"Assets/Kawaii Slime/Cameras/Scripts/FreeLookCam.cs"
-"Assets/Kawaii Slime/Cameras/Scripts/PivotBasedCameraRig.cs"
-"Assets/Kawaii Slime/Scripts/AI/EnemyAi.cs"
-"Assets/Kawaii Slime/Scripts/AI/Face.cs"
-"Assets/Kawaii Slime/Scripts/GameManager.cs"
-"Assets/Scripts/LifeCycle.cs"
-"Assets/Scripts/NewBehaviourScript.cs"
-"Assets/Simple 2D Platformer BE2/ReadMe/Scripts/ReadmeBE2.cs"
+"Assets/Workspace/AnimatorAndBlendTree/Scripts/AnimationAction.cs"
+"Assets/Workspace/Scripts/LifeCycle.cs"
+"Assets/Workspace/Scripts/NewBehaviourScript.cs"
 -langversion:9.0
 
 /deterministic
