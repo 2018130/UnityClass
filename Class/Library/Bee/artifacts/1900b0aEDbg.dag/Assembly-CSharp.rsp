@@ -343,6 +343,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Workspace/AnimatorAndBlendTree/Scripts/AnimationAction.cs"
 "Assets/Workspace/AnimatorAndBlendTree/Scripts/BlendAnimation.cs"
+"Assets/Workspace/NavMeshAgent/Scripts/Controller.cs"
 "Assets/Workspace/Scripts/LifeCycle.cs"
 "Assets/Workspace/Scripts/NewBehaviourScript.cs"
 -langversion:9.0
