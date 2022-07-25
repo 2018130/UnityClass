@@ -346,6 +346,9 @@
 "Assets/Workspace/02_NavMeshAgent/Scripts/Controller.cs"
 "Assets/Workspace/03_Collision/Scripts/CharacterController.cs"
 "Assets/Workspace/03_Collision/Scripts/Sensor.cs"
+"Assets/Workspace/04_InstantiateAndDestroy/Scripts/Create.cs"
+"Assets/Workspace/04_InstantiateAndDestroy/Scripts/Delete.cs"
+"Assets/Workspace/04_InstantiateAndDestroy/Scripts/ObjectPool.cs"
 -langversion:9.0
 
 /deterministic
