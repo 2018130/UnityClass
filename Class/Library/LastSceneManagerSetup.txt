@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Workspace/04_InstantiateAndDestroy/InstantiateAndDestroy.unity
+- path: Assets/Workspace/99_CSharp/Scenes/CSharp.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
