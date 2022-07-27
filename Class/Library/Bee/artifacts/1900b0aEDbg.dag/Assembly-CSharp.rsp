@@ -351,6 +351,8 @@
 "Assets/Workspace/04_InstantiateAndDestroy/Scripts/ObjectPool.cs"
 "Assets/Workspace/05_Sound/Scripts/Control.cs"
 "Assets/Workspace/05_Sound/Scripts/SoundManager.cs"
+"Assets/Workspace/06_NavmeshObstacle/Scripts/Arrival.cs"
+"Assets/Workspace/06_NavmeshObstacle/Scripts/AutoMove.cs"
 "Assets/Workspace/99_CSharp/Instance.cs"
 -langversion:9.0
 

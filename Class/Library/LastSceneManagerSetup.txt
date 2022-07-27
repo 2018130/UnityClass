@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Workspace/99_CSharp/Scenes/CSharp.unity
+- path: Assets/Workspace/98_Particle/Particle.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
