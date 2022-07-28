@@ -353,6 +353,8 @@
 "Assets/Workspace/05_Sound/Scripts/SoundManager.cs"
 "Assets/Workspace/06_NavmeshObstacle/Scripts/Arrival.cs"
 "Assets/Workspace/06_NavmeshObstacle/Scripts/AutoMove.cs"
+"Assets/Workspace/07_TimeDelay/Scripts/Switching.cs"
+"Assets/Workspace/07_TimeDelay/Scripts/Various.cs"
 "Assets/Workspace/99_CSharp/Instance.cs"
 -langversion:9.0
 
