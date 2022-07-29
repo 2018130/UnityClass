@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Workspace/07_TimeDelay/TimeDelay.unity
+- path: Assets/Workspace/97_Terrain/Terrain.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
