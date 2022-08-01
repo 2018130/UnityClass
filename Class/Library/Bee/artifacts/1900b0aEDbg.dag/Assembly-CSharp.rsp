@@ -360,6 +360,10 @@
 "Assets/Workspace/08_Rotation/Scripts/Bicycle.cs"
 "Assets/Workspace/08_Rotation/Scripts/Observer.cs"
 "Assets/Workspace/08_Rotation/Scripts/Revolution.cs"
+"Assets/Workspace/09_MouseDrag/Scripts/Capture.cs"
+"Assets/Workspace/09_MouseDrag/Scripts/Special.cs"
+"Assets/Workspace/09_MouseDrag/Scripts/Zoom.cs"
+"Assets/Workspace/96_BaseClass/Test.cs"
 "Assets/Workspace/99_CSharp/Instance.cs"
 -langversion:9.0
 

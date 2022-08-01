@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Workspace/97_Terrain/Terrain.unity
+- path: Assets/Workspace/96_BaseClass/BaseClass.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
