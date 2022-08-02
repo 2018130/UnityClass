@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Workspace/96_BaseClass/BaseClass.unity
+- path: Assets/Workspace/99_CSharp/CSharp.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
