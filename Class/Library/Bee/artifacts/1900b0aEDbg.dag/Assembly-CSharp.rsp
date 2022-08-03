@@ -396,6 +396,8 @@
 "Assets/Workspace/10_Cinemachine/Cinemachine/2.8.6/Cinemachine Example Scenes/Shared/Scripts/SimpleElevator.cs"
 "Assets/Workspace/10_Cinemachine/Cinemachine/2.8.6/Cinemachine Example Scenes/Shared/Scripts/SpawnInCircle.cs"
 "Assets/Workspace/10_Cinemachine/Cinemachine/2.8.6/Cinemachine Example Scenes/Shared/Scripts/ThirdPersonFollowDistanceModifier.cs"
+"Assets/Workspace/12_Light/Scripts/LightManager.cs"
+"Assets/Workspace/12_Light/Scripts/Patrol.cs"
 "Assets/Workspace/96_BaseClass/Test.cs"
 "Assets/Workspace/99_CSharp/Instance.cs"
 "Assets/Workspace/99_CSharp/Reference.cs"
